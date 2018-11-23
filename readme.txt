@@ -6,6 +6,7 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 只参加到暂存区
 Creating a new branch is quick.
+<<<<<<< HEAD
 分支提交测试
 
 
@@ -18,4 +19,3 @@ master编写代码
 测试分支与master冲突修改
 测试feature分支修改代码与master代码冲突问题。
 修改master
-
