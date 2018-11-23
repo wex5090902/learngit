@@ -10,9 +10,6 @@ Creating a new branch is quick.
 
 
 Creating a new branch is quick & simple.
-
-
-
-
-
+测试分支与master冲突.:wq!
+测试分支与master冲突修改
 
