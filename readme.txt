@@ -7,3 +7,4 @@ My stupid boss still prefers SVN.
 只参加到暂存区
 Creating a new branch is quick.
 分支提交测试
+Creating a new branch is quick AND simple.
